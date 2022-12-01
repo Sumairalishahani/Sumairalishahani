@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sumair Ali</h1>
-<h3 align="center">Java Developer</h3>
-img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbMeIpI9FpwU3UVlb0iNatsfiGwhGLGAw49NcldNsMko7uNIir_IQp-rm31OmnGSRYiA&usqp=CAU">
+<h3 align="center">A passionate software engineer from pakistan</h3>
+<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumairalishahani&label=Profile%20views&color=0e75b6&style=flat" alt="sumairalishahani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shahani sumair ali" target="blank"><img src="https://img.shields.io/twitter/follow/shahani sumair ali?logo=twitter&style=for-the-badge" alt="shahani sumair ali" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sumair_shahani" target="blank"><img src="https://img.shields.io/twitter/follow/sumair_shahani?logo=twitter&style=for-the-badge" alt="sumair_shahani" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Artifical Intelligence**
 
@@ -16,10 +16,10 @@ img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shahani sumair ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahani sumair ali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumair ali shahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumair ali shahani" height="30" width="40" /></a>
-<a href="https://fb.com/shahani sumair ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahani sumair ali" height="30" width="40" /></a>
-<a href="https://instagram.com/shahanisumair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahanisumair" height="30" width="40" /></a>
+<a href="https://twitter.com/sumair_shahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumair_shahani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumair-ali-shahani-98996022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumair-ali-shahani-98996022a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sumairali.shahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sumairali.shahani" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shahanisumair/?fbclid=iwar0klziaoimcuio3b-cyxkefnq8j04ts4cyxokmjs8p7y8-esvkatzxpvf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahanisumair/?fbclid=iwar0klziaoimcuio3b-cyxkefnq8j04ts4cyxokmjs8p7y8-esvkatzxpvf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
